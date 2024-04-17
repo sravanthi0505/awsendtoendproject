@@ -1,0 +1,6 @@
+customhost = "employee.cuuvpnpyzyck.ap-southeast-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "Admin123"
+customdb = "employee"
+custombucket = "addemployeemyproject"
+customregion = "ap-southeast-1"
